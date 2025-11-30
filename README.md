@@ -19,6 +19,7 @@ The system detects vehicle speed using Doppler shift and automatically captures 
 - HB100 Doppler Radar
 - LM358 Op-Amp
 - MicroSD card
+- Breadvolt power supply module
 - Breadboard, jumper wires
 
 ## Wiring Summary
