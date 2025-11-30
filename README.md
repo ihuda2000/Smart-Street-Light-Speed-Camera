@@ -21,7 +21,7 @@ The system detects vehicle speed using Doppler shift and automatically captures 
 - MicroSD card
 - Breadboard, jumper wires
 
-##Wiring Summary
+## Wiring Summary
 - ESP32-CAM:
   Powered by 5V → 5V, GND → GND
   SD card wired internally (default AI Thinker pins)
