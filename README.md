@@ -28,10 +28,10 @@ The system detects vehicle speed using Doppler shift and automatically captures 
   DevKit triggers capture via WiFi HTTP request
   
 - HB100 → LM358:
-- VCC → 5V
-- GND → GND
-- IF → LM358 + input
-- LM358 output → ESP32 DevKit ADC pin GPIO36
+  VCC → 5V
+  GND → GND
+  IF → LM358 + input
+  LM358 output → ESP32 DevKit ADC pin GPIO36
 
 Shared:
 Common ground between both ESP32 boards
