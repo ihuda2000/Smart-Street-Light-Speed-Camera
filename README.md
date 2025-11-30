@@ -9,7 +9,6 @@ The system detects vehicle speed using Doppler shift and automatically captures 
 - Real-time FFT speed calculation on ESP32 DevKit
 - Automatic speed-triggered photo capture
 - ESP32-CAM SD card photo storage
-- Local web interface (/list, /file?name=...) to browse images
 - UDP telemetry to PC
 - Power via USB or 5V power bank
 
